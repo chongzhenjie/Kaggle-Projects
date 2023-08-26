@@ -1,7 +1,7 @@
 # Kaggle Projects
 Below is a list of data science projects that I have completed on Kaggle.
 
-## Ecuador Store Sales Forecasting
+## Ecuador Store Sales
 ### [Source](https://www.kaggle.com/competitions/store-sales-time-series-forecasting) | [Project](https://www.kaggle.com/code/chongzhenjie/ecuador-store-sales-global-forecasting-lightgbm)
 __Description:__ Predict grocery sales.
 * Analyzed dataset involving daily sales of 1000+ store-product pairs over 5 years for forecasting.
@@ -25,7 +25,7 @@ __Description:__ Predict sales price for each house.
 * Analyzed dataset containing 79 explanatory variables describing almost every aspect of residential homes in Ames, Iowa with the goal of predicting the sales price.
 * Used univariate statistical tests (F-test statistics and mutual information) to help in feature selection and compared the performance of kernel methods and tree models in terms of RMSE.
 
-## Walmart Store Sales Forecasting
+## Walmart Store Sales
 ### [Source](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/overview) | [Project](https://www.kaggle.com/code/chongzhenjie/store-sales-time-series-forecasting-in-r)
 __Description:__ Use historical data to predict store sales.
 * Analyzed dataset involving weekly sales of 3000+ store-department pairs over 100+ weeks for forecasting.
